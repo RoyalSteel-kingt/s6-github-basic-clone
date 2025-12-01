@@ -1,0 +1,8 @@
+Before the master branch was the main branch, but it had to be change
+due to concern about the naming scheme.
+Whenever you branch out from the main branch, you're able to mess around
+with new things quickly and be able to destory or keep those changes
+without messing with the main branch.
+There's two major steps (add and commit) that is always in use to fully
+save progress with the git. Though, even if they're set in stone...
+they're can be either restore, reset or reverted back to the first commit/change.
