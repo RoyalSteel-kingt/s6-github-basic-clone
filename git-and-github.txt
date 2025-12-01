@@ -1,0 +1,7 @@
+GitHub can be run through the cloud and has options to either clone
+the repo to the localized computer or push from the local computer
+into the cloud.
+Due to be also being in the cloud, it's also able to be shared, downloaded and
+worked on with other people who are interested in the project.
+Whenever you make a repo, you can also request a README file, 
+an .gigingnore file and what licenese does this project have.
